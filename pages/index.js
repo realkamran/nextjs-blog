@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm <strong>Kamran</strong>.
+        <p>Hello, I'm <strong>Kamran Shahid</strong>.
           I am a Software Engineer at Teamo Inc and a translator (English/Urdu).
           You can contact me on <a href="https://twitter.com/" target="_blank">Twitter</a>.</p>
         <p>
